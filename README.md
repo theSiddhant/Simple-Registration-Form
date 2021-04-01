@@ -1,3 +1,3 @@
-#This is my first Repository
+#This is my first repository
 
 A simple registration form 
